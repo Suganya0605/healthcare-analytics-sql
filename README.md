@@ -53,4 +53,4 @@ The project demonstrates advanced SQL concepts including:
 
 ## Author
 
-Satheesh N
+Suganya V
